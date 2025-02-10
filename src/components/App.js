@@ -49,7 +49,7 @@ function App() {
     event.preventDefault();
     if (event.type === "click" || (event.type === "keypress" && event.key === "Enter")) {
       setWeather({ ...weather, loading: true });
-      const apiKey = 'b03a640e5ef6980o4da35b006t5f2942';
+      const apiKey = 'b03a640e5ef6980o4da35';
       const url = `https://api.shecodes.io/weather/v1/current?query=${query}&key=${apiKey}`;
 
       try {
@@ -64,7 +64,7 @@ function App() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const apiKey = 'b03a640e5ef6980o4da35b006t5f2942';
+      const apiKey = 'b03a640e5ef6980o4da35';
       const url = `https://api.shecodes.io/weather/v1/current?query=Coimbatore&key=${apiKey}`;
 
       try {
