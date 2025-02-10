@@ -6,5 +6,8 @@ import Credit from "./components/Credit";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
-    <App />
+  <StrictMode>
+  <App />
+</StrictMode>,
+rootElement
 );
