@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import SearchEngine from "./SearchEngine";
 import Forecast from "./Forecast";
-
 import "../styles.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
