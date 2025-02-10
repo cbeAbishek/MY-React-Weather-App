@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/cbeAbishek/MY-React-Weather-App/static/css/main.10834918.css",
-    "main.js": "/cbeAbishek/MY-React-Weather-App/static/js/main.cc07a653.js",
-    "static/media/3background.png": "/cbeAbishek/MY-React-Weather-App/static/media/3background.beef33f1af216213a930.png",
-    "static/media/4background.png": "/cbeAbishek/MY-React-Weather-App/static/media/4background.7f3e3b01e1ec334b93b6.png",
-    "static/media/background.png": "/cbeAbishek/MY-React-Weather-App/static/media/background.97a1bcfa3188317e460d.png",
-    "static/media/fa-solid-900.ttf": "/cbeAbishek/MY-React-Weather-App/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
-    "static/media/fa-brands-400.ttf": "/cbeAbishek/MY-React-Weather-App/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
-    "static/media/2background.png": "/cbeAbishek/MY-React-Weather-App/static/media/2background.53048555232d6f9a15c3.png",
-    "static/media/1background.png": "/cbeAbishek/MY-React-Weather-App/static/media/1background.cb3f39990b7b218d18b9.png",
-    "static/media/fa-solid-900.woff2": "/cbeAbishek/MY-React-Weather-App/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
-    "static/media/fa-brands-400.woff2": "/cbeAbishek/MY-React-Weather-App/static/media/fa-brands-400.fdbb558523a380307689.woff2",
-    "static/media/fa-regular-400.ttf": "/cbeAbishek/MY-React-Weather-App/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
-    "static/media/fa-regular-400.woff2": "/cbeAbishek/MY-React-Weather-App/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
-    "static/media/fa-v4compatibility.ttf": "/cbeAbishek/MY-React-Weather-App/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
-    "static/media/fa-v4compatibility.woff2": "/cbeAbishek/MY-React-Weather-App/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
-    "index.html": "/cbeAbishek/MY-React-Weather-App/index.html",
-    "main.10834918.css.map": "/cbeAbishek/MY-React-Weather-App/static/css/main.10834918.css.map",
-    "main.cc07a653.js.map": "/cbeAbishek/MY-React-Weather-App/static/js/main.cc07a653.js.map"
+    "main.css": "/MY-React-Weather-App/static/css/main.1466a0ba.css",
+    "main.js": "/MY-React-Weather-App/static/js/main.a37035d3.js",
+    "static/media/3background.png": "/MY-React-Weather-App/static/media/3background.beef33f1af216213a930.png",
+    "static/media/4background.png": "/MY-React-Weather-App/static/media/4background.7f3e3b01e1ec334b93b6.png",
+    "static/media/background.png": "/MY-React-Weather-App/static/media/background.97a1bcfa3188317e460d.png",
+    "static/media/fa-solid-900.ttf": "/MY-React-Weather-App/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/MY-React-Weather-App/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/2background.png": "/MY-React-Weather-App/static/media/2background.53048555232d6f9a15c3.png",
+    "static/media/1background.png": "/MY-React-Weather-App/static/media/1background.cb3f39990b7b218d18b9.png",
+    "static/media/fa-solid-900.woff2": "/MY-React-Weather-App/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/MY-React-Weather-App/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/MY-React-Weather-App/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/MY-React-Weather-App/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/MY-React-Weather-App/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MY-React-Weather-App/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "index.html": "/MY-React-Weather-App/index.html",
+    "main.1466a0ba.css.map": "/MY-React-Weather-App/static/css/main.1466a0ba.css.map",
+    "main.a37035d3.js.map": "/MY-React-Weather-App/static/js/main.a37035d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.10834918.css",
-    "static/js/main.cc07a653.js"
+    "static/css/main.1466a0ba.css",
+    "static/js/main.a37035d3.js"
   ]
 }
