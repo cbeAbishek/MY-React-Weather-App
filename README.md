@@ -25,4 +25,9 @@ To use this app, you can follow these steps:
 
 To use the app, simply type the name of the city you want to search for in the search bar and press Enter. The app will display the current weather conditions for the searched city.
 
+# Installation and Usage
+[https://Usernameunavailable0.github.io/Weather-App]
 
+# ScreenShots
+
+![image](https://github.com/user-attachments/assets/fee75391-951d-484d-b8ff-fc309de85771)
